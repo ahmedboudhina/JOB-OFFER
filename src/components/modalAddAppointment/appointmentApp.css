@@ -1,0 +1,21 @@
+.container-appointmentApp{
+    background-image: url(https://www.freeiconspng.com/uploads/great-job-icon-png-20.png);
+    background-repeat: no-repeat;
+    background-position-y: 0px;
+    background-position: right;
+    min-height: 85vh;
+}
+.container-appointmentApp>h5{
+    color: #435f71;
+    text-align: center;
+    margin:20px;
+    width: 65%;
+    line-height: 1.7;
+}
+h5>h6{
+    color: gray;
+}
+
+.stepper{
+    width: 80%;
+}
